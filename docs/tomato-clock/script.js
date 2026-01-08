@@ -45,7 +45,7 @@ function updateDisplay() {
     let statusText = '';
     switch (currentState) {
         case 'work':
-            statusText = '专注工作';
+            statusText = '保持专注';
             break;
         case 'shortBreak':
             statusText = '短暂休息';
